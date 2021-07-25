@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "D:\\\\LG\\\\practice\\\\nuxt-demo\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "D:\\\\LG\\\\practice\\\\nuxt-demo\\\\pages\\\\home",
+        "_name": "_4ee0b3b8"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "D:\\\\LG\\\\practice\\\\nuxt-demo\\\\pages\\\\login",
+        "_name": "_e523e8a0"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "D:\\\\LG\\\\practice\\\\nuxt-demo\\\\pages\\\\login",
+        "_name": "_e523e8a0"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "D:\\\\LG\\\\practice\\\\nuxt-demo\\\\pages\\\\profile",
+        "_name": "_797e9fa0"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "D:\\\\LG\\\\practice\\\\nuxt-demo\\\\pages\\\\settings",
+        "_name": "_3615667c"
+      },
+      {
+        "path": "/edit",
+        "name": "edit",
+        "component": "D:\\\\LG\\\\practice\\\\nuxt-demo\\\\pages\\\\edit",
+        "_name": "_4edf2ce3"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "D:\\\\LG\\\\practice\\\\nuxt-demo\\\\pages\\\\article",
+        "_name": "_abea1906"
+      }
+    ],
+    "_name": "_1f9667c3"
+  }
+]
